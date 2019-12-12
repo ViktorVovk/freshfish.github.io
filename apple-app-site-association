@@ -3,9 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "1483064124.com.jobcastapp.jobcast",
+        "appID": "72KNRG9M7H.com.jobcastapp.jobcast",
         "paths": [
-          "*"
+          "/main"
         ]
       }
     ]
