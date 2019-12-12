@@ -5,7 +5,7 @@
       {
         "appID": "72KNRG9M7H.com.jobcastapp.jobcast",
         "paths": [
-          "/confirm_email/:confirmedKey"
+          "*"
         ]
       }
     ]
