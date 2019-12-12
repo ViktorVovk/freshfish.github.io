@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "1483064124.com.jobcastapp.jobcast",
+        "paths": [
+          "*", "main/:confirmedKey"
+        ]
+      }
+    ]
+  }
+}
